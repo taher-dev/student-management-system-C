@@ -2,4 +2,4 @@
 
 A simple student management system application created in C language.
 
-<img src="images/ui-2.JPG" width=100%>
+<img src="images/ui-1.JPG" width=100%>
